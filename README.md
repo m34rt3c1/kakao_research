@@ -1,2 +1,2 @@
 # kakao_research
-kakao_research
+KAKAO TALK REASEARCH
